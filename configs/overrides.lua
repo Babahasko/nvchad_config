@@ -35,6 +35,7 @@ M.mason = {
     "ruff",
     "black",
     "debugpy",
+    "isort",
     -- c/cpp stuff
     "clangd",
     "clang-format",
