@@ -6,10 +6,6 @@ M.treesitter = {
     "lua",
     "html",
     "css",
-    "javascript",
-    "typescript",
-    "tsx",
-    "c",
     "markdown",
     "markdown_inline",
   },
@@ -30,7 +26,6 @@ M.mason = {
     -- web dev stuff
     "css-lsp",
     "html-lsp",
-    "typescript-language-server",
     "deno",
     "prettier",
 
