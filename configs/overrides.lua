@@ -39,6 +39,7 @@ M.mason = {
     "mypy",
     "ruff",
     "black",
+    "debugpy",
     -- c/cpp stuff
     "clangd",
     "clang-format",
