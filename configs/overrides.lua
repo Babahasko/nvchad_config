@@ -32,7 +32,6 @@ M.mason = {
     --python
     "pyright",
     "mypy",
-    "ruff",
     "black",
     "debugpy",
     "isort",

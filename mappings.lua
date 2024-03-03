@@ -13,7 +13,7 @@ M.general = {
 M.dap = {
   plugin = true,
   n = {
-    ["<leader>db"] = {"<cmd> DapToggleBreakpoint <CR>"}
+    ["<leader>db"] = {"<cmd> DapToggleBreakpoint <CR>", "Set Break Point"}
   }
 }
 M.dap_python = {

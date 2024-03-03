@@ -38,7 +38,7 @@ local plugins = {
     },
 
     config = function(_, opts)
-      local path = "C:/Users/babahasko/AppData/Local/nvim-data/mason/packages/debugpy/venv/Scripts/python"
+      local path = "C:/Users/user/AppData/Local/nvim-data/mason/packages/debugpy/venv/Scripts/python"
       require("dap-python").setup(path)
       require("core.utils").load_mappings("dap_python")
     end,

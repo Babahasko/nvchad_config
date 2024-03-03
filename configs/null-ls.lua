@@ -15,8 +15,7 @@ local sources = {
 
   --python
   b.formatting.black,
-  b.diagnostics.mypy,
-  b.diagnostics.ruff,
+  b.diagnostics.mypy,  
 }
 
 null_ls.setup {
